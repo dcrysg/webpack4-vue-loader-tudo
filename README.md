@@ -4,6 +4,7 @@
 # 使用方法
 安装
 ```
+https://github.com/dcrysg/webpack4-vue-loader-tudo.git
 ```
 进入项目目录，运行 
 ```
